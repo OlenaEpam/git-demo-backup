@@ -7,3 +7,4 @@ song line 6
 song line 7
 song line 8
 song line 9 in branch1
+song line 10 second commit in branch1
