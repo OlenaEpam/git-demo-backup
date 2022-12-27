@@ -10,3 +10,4 @@ song line 9 in branch1
 song line 10 second commit in branch1
 song line 11 branch
 song line 12
+song line 13 in branch1-conflicts change 2
