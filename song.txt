@@ -11,4 +11,5 @@ song line 10 second commit in branch1
 song line 11 branch
 song line 12
 song line 13 in master - conflicts change 1
+song line 14 in branch1-conflicts change 2
 
